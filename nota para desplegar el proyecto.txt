@@ -1,0 +1,4 @@
+motobyBBDD.sql es la base de datos en SQL
+Se usa un XAMPP con base de datos phpMyAdmin
+Para pruebas puede usarse cualquier usuario, los dos que use para pruebas fueron ejemplo(con contraseña ejemplo) y oscar(con contraseña oscar)
+Las memorias son exactamente iguales pero una en formato PDF y otra en Word
